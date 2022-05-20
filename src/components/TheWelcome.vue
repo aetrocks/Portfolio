@@ -21,7 +21,7 @@ import SupportIcon from "./icons/IconSupport.vue";
 
   <WelcomeItem>
     <template #icon>
-      <ToolingIcon />
+      <ToolingIcon fill="salmon"/>
     </template>
     <template #heading>Tooling</template>
 
